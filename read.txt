@@ -1,0 +1,4 @@
+Local repo
+You can make local repo using git init
+Git add file name to add file in local
+
